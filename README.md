@@ -6,8 +6,7 @@
 ## ⮞ Integrantes:
 - Pedro Alves Lara
 - Raphael Angelo Mourão Fidelis
-- Arthue Batista Tolentino de Melo
-- Caio Silva Campos Corgozinho
+- Arthur Batista Tolentino de Melo
 - Vinícius Alves Costa
 - Kleber Henrique
 - Thales Simões Fonseca Ferraz
