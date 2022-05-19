@@ -10,7 +10,6 @@
 - Vinícius Alves Costa
 - Kleber Henrique
 - Thales Simões Fonseca Ferraz
-
 #
 
 ## ⮞ Link para PDF: [PDF](https://drive.google.com/file/d/1ChgzGuh4ZynJAK7bo13el_JCk6irbiVd/view?usp=sharing)
