@@ -9,7 +9,9 @@
 - Arthur Batista Tolentino de Melo
 - Vinícius Alves Costa
 - Kleber Henrique
-- Thales Simões Fonseca Ferraz
 #
 
-## ⮞ Link para PDF: [PDF](https://drive.google.com/file/d/12Z2HQB7kXj5ycqBirPrVCJIB3rUa4D0C/view?usp=sharing)
+
+## ⮞ PDF Etapa 1: [PDF](https://drive.google.com/file/d/1wzS4gi-ByLVp4oNzxkxRHAsNUJ6kPhCW/view?usp=sharing)
+## ⮞ PDF Etapa 2: [PDF](https://drive.google.com/file/d/1z_Jkp7xFexRwUdFPoL8VGc1V9uNNX-W_/view?usp=sharing)
+## ⮞ PDF Etapa Final: [PDF](https://drive.google.com/file/d/12Z2HQB7kXj5ycqBirPrVCJIB3rUa4D0C/view?usp=sharing)
